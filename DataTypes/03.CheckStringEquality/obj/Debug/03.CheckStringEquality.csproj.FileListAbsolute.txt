@@ -3,3 +3,6 @@ c:\users\colog_000\documents\visual studio 2013\Projects\DataTypes\03.CheckStrin
 c:\users\colog_000\documents\visual studio 2013\Projects\DataTypes\03.CheckStringEquality\bin\Debug\03.CheckStringEquality.pdb
 c:\users\colog_000\documents\visual studio 2013\Projects\DataTypes\03.CheckStringEquality\obj\Debug\03.CheckStringEquality.exe
 c:\users\colog_000\documents\visual studio 2013\Projects\DataTypes\03.CheckStringEquality\obj\Debug\03.CheckStringEquality.pdb
+D:\DeveloperTrainings\DotNetCourse\.NETCourseHomeworks\DataTypes\03.CheckStringEquality\bin\Debug\03.CheckStringEquality.exe.config
+D:\DeveloperTrainings\DotNetCourse\.NETCourseHomeworks\DataTypes\03.CheckStringEquality\obj\Debug\03.CheckStringEquality.exe
+D:\DeveloperTrainings\DotNetCourse\.NETCourseHomeworks\DataTypes\03.CheckStringEquality\obj\Debug\03.CheckStringEquality.pdb

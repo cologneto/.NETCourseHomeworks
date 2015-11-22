@@ -3,3 +3,6 @@ c:\users\colog_000\documents\visual studio 2013\Projects\DataTypes\04.RectangleA
 c:\users\colog_000\documents\visual studio 2013\Projects\DataTypes\04.RectangleArea\bin\Debug\04.RectangleArea.pdb
 c:\users\colog_000\documents\visual studio 2013\Projects\DataTypes\04.RectangleArea\obj\Debug\04.RectangleArea.exe
 c:\users\colog_000\documents\visual studio 2013\Projects\DataTypes\04.RectangleArea\obj\Debug\04.RectangleArea.pdb
+D:\DeveloperTrainings\DotNetCourse\.NETCourseHomeworks\DataTypes\04.RectangleArea\bin\Debug\04.RectangleArea.exe.config
+D:\DeveloperTrainings\DotNetCourse\.NETCourseHomeworks\DataTypes\04.RectangleArea\obj\Debug\04.RectangleArea.exe
+D:\DeveloperTrainings\DotNetCourse\.NETCourseHomeworks\DataTypes\04.RectangleArea\obj\Debug\04.RectangleArea.pdb

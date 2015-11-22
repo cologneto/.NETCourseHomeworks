@@ -4,3 +4,6 @@ c:\users\colog_000\documents\visual studio 2013\Projects\DataTypes\02.SumOfInts\
 c:\users\colog_000\documents\visual studio 2013\Projects\DataTypes\02.SumOfInts\obj\Debug\02.SumOfInts.csprojResolveAssemblyReference.cache
 c:\users\colog_000\documents\visual studio 2013\Projects\DataTypes\02.SumOfInts\obj\Debug\02.SumOfInts.exe
 c:\users\colog_000\documents\visual studio 2013\Projects\DataTypes\02.SumOfInts\obj\Debug\02.SumOfInts.pdb
+D:\DeveloperTrainings\DotNetCourse\.NETCourseHomeworks\DataTypes\02.SumOfInts\bin\Debug\02.SumOfInts.exe.config
+D:\DeveloperTrainings\DotNetCourse\.NETCourseHomeworks\DataTypes\02.SumOfInts\obj\Debug\02.SumOfInts.exe
+D:\DeveloperTrainings\DotNetCourse\.NETCourseHomeworks\DataTypes\02.SumOfInts\obj\Debug\02.SumOfInts.pdb

@@ -1,0 +1,6 @@
+D:\DeveloperTrainings\DotNetCourse\.NETCourseHomeworks\DataTypes\11.PineVersion2\bin\Debug\11.PineVersion2.exe.config
+D:\DeveloperTrainings\DotNetCourse\.NETCourseHomeworks\DataTypes\11.PineVersion2\bin\Debug\11.PineVersion2.exe
+D:\DeveloperTrainings\DotNetCourse\.NETCourseHomeworks\DataTypes\11.PineVersion2\bin\Debug\11.PineVersion2.pdb
+D:\DeveloperTrainings\DotNetCourse\.NETCourseHomeworks\DataTypes\11.PineVersion2\obj\Debug\11.PineVersion2.csprojResolveAssemblyReference.cache
+D:\DeveloperTrainings\DotNetCourse\.NETCourseHomeworks\DataTypes\11.PineVersion2\obj\Debug\11.PineVersion2.exe
+D:\DeveloperTrainings\DotNetCourse\.NETCourseHomeworks\DataTypes\11.PineVersion2\obj\Debug\11.PineVersion2.pdb
