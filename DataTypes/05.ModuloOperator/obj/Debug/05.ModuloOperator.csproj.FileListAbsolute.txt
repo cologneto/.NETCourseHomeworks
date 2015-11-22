@@ -1,0 +1,5 @@
+c:\users\colog_000\documents\visual studio 2013\Projects\DataTypes\05.ModuloOperator\bin\Debug\05.ModuloOperator.exe.config
+c:\users\colog_000\documents\visual studio 2013\Projects\DataTypes\05.ModuloOperator\bin\Debug\05.ModuloOperator.exe
+c:\users\colog_000\documents\visual studio 2013\Projects\DataTypes\05.ModuloOperator\bin\Debug\05.ModuloOperator.pdb
+c:\users\colog_000\documents\visual studio 2013\Projects\DataTypes\05.ModuloOperator\obj\Debug\05.ModuloOperator.exe
+c:\users\colog_000\documents\visual studio 2013\Projects\DataTypes\05.ModuloOperator\obj\Debug\05.ModuloOperator.pdb

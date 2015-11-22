@@ -1,0 +1,5 @@
+c:\users\colog_000\documents\visual studio 2013\Projects\DataTypes\09.GetNthSymbol\bin\Debug\09.GetNthSymbol.exe.config
+c:\users\colog_000\documents\visual studio 2013\Projects\DataTypes\09.GetNthSymbol\bin\Debug\09.GetNthSymbol.exe
+c:\users\colog_000\documents\visual studio 2013\Projects\DataTypes\09.GetNthSymbol\bin\Debug\09.GetNthSymbol.pdb
+c:\users\colog_000\documents\visual studio 2013\Projects\DataTypes\09.GetNthSymbol\obj\Debug\09.GetNthSymbol.exe
+c:\users\colog_000\documents\visual studio 2013\Projects\DataTypes\09.GetNthSymbol\obj\Debug\09.GetNthSymbol.pdb

@@ -1,0 +1,6 @@
+c:\users\colog_000\documents\visual studio 2013\Projects\DataTypes\08.CheckIfStringContainsInAnother\bin\Debug\08.CheckIfStringContainsInAnother.exe.config
+c:\users\colog_000\documents\visual studio 2013\Projects\DataTypes\08.CheckIfStringContainsInAnother\bin\Debug\08.CheckIfStringContainsInAnother.exe
+c:\users\colog_000\documents\visual studio 2013\Projects\DataTypes\08.CheckIfStringContainsInAnother\bin\Debug\08.CheckIfStringContainsInAnother.pdb
+c:\users\colog_000\documents\visual studio 2013\Projects\DataTypes\08.CheckIfStringContainsInAnother\obj\Debug\08.CheckIfStringContainsInAnother.csprojResolveAssemblyReference.cache
+c:\users\colog_000\documents\visual studio 2013\Projects\DataTypes\08.CheckIfStringContainsInAnother\obj\Debug\08.CheckIfStringContainsInAnother.exe
+c:\users\colog_000\documents\visual studio 2013\Projects\DataTypes\08.CheckIfStringContainsInAnother\obj\Debug\08.CheckIfStringContainsInAnother.pdb

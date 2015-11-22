@@ -1,0 +1,5 @@
+c:\users\colog_000\documents\visual studio 2013\Projects\DataTypes\06.ConcatenateStrings\bin\Debug\06.ConcatenateStrings.exe.config
+c:\users\colog_000\documents\visual studio 2013\Projects\DataTypes\06.ConcatenateStrings\bin\Debug\06.ConcatenateStrings.exe
+c:\users\colog_000\documents\visual studio 2013\Projects\DataTypes\06.ConcatenateStrings\bin\Debug\06.ConcatenateStrings.pdb
+c:\users\colog_000\documents\visual studio 2013\Projects\DataTypes\06.ConcatenateStrings\obj\Debug\06.ConcatenateStrings.exe
+c:\users\colog_000\documents\visual studio 2013\Projects\DataTypes\06.ConcatenateStrings\obj\Debug\06.ConcatenateStrings.pdb

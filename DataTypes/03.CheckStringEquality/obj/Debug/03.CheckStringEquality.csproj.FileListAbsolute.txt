@@ -1,0 +1,5 @@
+c:\users\colog_000\documents\visual studio 2013\Projects\DataTypes\03.CheckStringEquality\bin\Debug\03.CheckStringEquality.exe.config
+c:\users\colog_000\documents\visual studio 2013\Projects\DataTypes\03.CheckStringEquality\bin\Debug\03.CheckStringEquality.exe
+c:\users\colog_000\documents\visual studio 2013\Projects\DataTypes\03.CheckStringEquality\bin\Debug\03.CheckStringEquality.pdb
+c:\users\colog_000\documents\visual studio 2013\Projects\DataTypes\03.CheckStringEquality\obj\Debug\03.CheckStringEquality.exe
+c:\users\colog_000\documents\visual studio 2013\Projects\DataTypes\03.CheckStringEquality\obj\Debug\03.CheckStringEquality.pdb

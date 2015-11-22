@@ -1,0 +1,6 @@
+c:\users\colog_000\documents\visual studio 2013\Projects\DataTypes\10.Pine\bin\Debug\10.Pine.exe.config
+c:\users\colog_000\documents\visual studio 2013\Projects\DataTypes\10.Pine\bin\Debug\10.Pine.exe
+c:\users\colog_000\documents\visual studio 2013\Projects\DataTypes\10.Pine\bin\Debug\10.Pine.pdb
+c:\users\colog_000\documents\visual studio 2013\Projects\DataTypes\10.Pine\obj\Debug\10.Pine.csprojResolveAssemblyReference.cache
+c:\users\colog_000\documents\visual studio 2013\Projects\DataTypes\10.Pine\obj\Debug\10.Pine.exe
+c:\users\colog_000\documents\visual studio 2013\Projects\DataTypes\10.Pine\obj\Debug\10.Pine.pdb

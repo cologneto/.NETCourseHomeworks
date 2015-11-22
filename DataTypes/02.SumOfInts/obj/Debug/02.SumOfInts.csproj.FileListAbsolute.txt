@@ -1,0 +1,6 @@
+c:\users\colog_000\documents\visual studio 2013\Projects\DataTypes\02.SumOfInts\bin\Debug\02.SumOfInts.exe.config
+c:\users\colog_000\documents\visual studio 2013\Projects\DataTypes\02.SumOfInts\bin\Debug\02.SumOfInts.exe
+c:\users\colog_000\documents\visual studio 2013\Projects\DataTypes\02.SumOfInts\bin\Debug\02.SumOfInts.pdb
+c:\users\colog_000\documents\visual studio 2013\Projects\DataTypes\02.SumOfInts\obj\Debug\02.SumOfInts.csprojResolveAssemblyReference.cache
+c:\users\colog_000\documents\visual studio 2013\Projects\DataTypes\02.SumOfInts\obj\Debug\02.SumOfInts.exe
+c:\users\colog_000\documents\visual studio 2013\Projects\DataTypes\02.SumOfInts\obj\Debug\02.SumOfInts.pdb

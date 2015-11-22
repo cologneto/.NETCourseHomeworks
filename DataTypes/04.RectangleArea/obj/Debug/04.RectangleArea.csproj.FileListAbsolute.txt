@@ -1,0 +1,5 @@
+c:\users\colog_000\documents\visual studio 2013\Projects\DataTypes\04.RectangleArea\bin\Debug\04.RectangleArea.exe.config
+c:\users\colog_000\documents\visual studio 2013\Projects\DataTypes\04.RectangleArea\bin\Debug\04.RectangleArea.exe
+c:\users\colog_000\documents\visual studio 2013\Projects\DataTypes\04.RectangleArea\bin\Debug\04.RectangleArea.pdb
+c:\users\colog_000\documents\visual studio 2013\Projects\DataTypes\04.RectangleArea\obj\Debug\04.RectangleArea.exe
+c:\users\colog_000\documents\visual studio 2013\Projects\DataTypes\04.RectangleArea\obj\Debug\04.RectangleArea.pdb
