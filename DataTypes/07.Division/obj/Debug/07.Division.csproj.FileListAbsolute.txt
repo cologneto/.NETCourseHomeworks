@@ -4,3 +4,6 @@ c:\users\colog_000\documents\visual studio 2013\Projects\DataTypes\07.Division\b
 c:\users\colog_000\documents\visual studio 2013\Projects\DataTypes\07.Division\bin\Debug\07.Division.pdb
 c:\users\colog_000\documents\visual studio 2013\Projects\DataTypes\07.Division\obj\Debug\07.Division.exe
 c:\users\colog_000\documents\visual studio 2013\Projects\DataTypes\07.Division\obj\Debug\07.Division.pdb
+D:\DeveloperTrainings\DotNetCourse\.NETCourseHomeworks\DataTypes\07.Division\bin\Debug\07.Division.exe.config
+D:\DeveloperTrainings\DotNetCourse\.NETCourseHomeworks\DataTypes\07.Division\obj\Debug\07.Division.exe
+D:\DeveloperTrainings\DotNetCourse\.NETCourseHomeworks\DataTypes\07.Division\obj\Debug\07.Division.pdb

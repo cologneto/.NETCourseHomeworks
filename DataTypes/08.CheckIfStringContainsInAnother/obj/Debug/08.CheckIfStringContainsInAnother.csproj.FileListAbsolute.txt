@@ -4,3 +4,6 @@ c:\users\colog_000\documents\visual studio 2013\Projects\DataTypes\08.CheckIfStr
 c:\users\colog_000\documents\visual studio 2013\Projects\DataTypes\08.CheckIfStringContainsInAnother\obj\Debug\08.CheckIfStringContainsInAnother.csprojResolveAssemblyReference.cache
 c:\users\colog_000\documents\visual studio 2013\Projects\DataTypes\08.CheckIfStringContainsInAnother\obj\Debug\08.CheckIfStringContainsInAnother.exe
 c:\users\colog_000\documents\visual studio 2013\Projects\DataTypes\08.CheckIfStringContainsInAnother\obj\Debug\08.CheckIfStringContainsInAnother.pdb
+D:\DeveloperTrainings\DotNetCourse\.NETCourseHomeworks\DataTypes\08.CheckIfStringContainsInAnother\bin\Debug\08.CheckIfStringContainsInAnother.exe.config
+D:\DeveloperTrainings\DotNetCourse\.NETCourseHomeworks\DataTypes\08.CheckIfStringContainsInAnother\obj\Debug\08.CheckIfStringContainsInAnother.exe
+D:\DeveloperTrainings\DotNetCourse\.NETCourseHomeworks\DataTypes\08.CheckIfStringContainsInAnother\obj\Debug\08.CheckIfStringContainsInAnother.pdb

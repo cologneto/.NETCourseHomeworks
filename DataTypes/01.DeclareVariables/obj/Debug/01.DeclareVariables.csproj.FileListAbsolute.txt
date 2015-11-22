@@ -1,1 +1,2 @@
 c:\users\colog_000\documents\visual studio 2013\Projects\DataTypes\01.DeclareVariables\bin\Debug\01.DeclareVariables.exe.config
+D:\DeveloperTrainings\DotNetCourse\.NETCourseHomeworks\DataTypes\01.DeclareVariables\bin\Debug\01.DeclareVariables.exe.config
