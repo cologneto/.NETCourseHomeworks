@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.StringIntOrDouble", "01.StringIntOrDouble\01.StringIntOrDouble.csproj", "{F58C5E23-B71B-41C4-8F00-C1BB74F9234A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.BonusScore", "02.BonusScore\02.BonusScore.csproj", "{0992E98D-E918-4694-BBA4-365276B07999}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.CardGames", "03.CardGames\03.CardGames.csproj", "{DA4ACE5F-1DCF-4FB4-81AF-E7C66A6FFA74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F58C5E23-B71B-41C4-8F00-C1BB74F9234A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F58C5E23-B71B-41C4-8F00-C1BB74F9234A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F58C5E23-B71B-41C4-8F00-C1BB74F9234A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F58C5E23-B71B-41C4-8F00-C1BB74F9234A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0992E98D-E918-4694-BBA4-365276B07999}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0992E98D-E918-4694-BBA4-365276B07999}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0992E98D-E918-4694-BBA4-365276B07999}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0992E98D-E918-4694-BBA4-365276B07999}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA4ACE5F-1DCF-4FB4-81AF-E7C66A6FFA74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA4ACE5F-1DCF-4FB4-81AF-E7C66A6FFA74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA4ACE5F-1DCF-4FB4-81AF-E7C66A6FFA74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA4ACE5F-1DCF-4FB4-81AF-E7C66A6FFA74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
