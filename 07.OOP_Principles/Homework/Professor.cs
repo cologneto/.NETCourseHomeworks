@@ -27,5 +27,10 @@ namespace Homework
         {
             Console.WriteLine("I'm proffesor {0} {1}. I can conduct examinations.", this.firstName, this.lastName);
         }
+
+        public void CheckHomeworks()
+        {
+            Console.WriteLine("I'm proffesor {0} and I can check homeworks", this.lastName);
+        }
     }
 }

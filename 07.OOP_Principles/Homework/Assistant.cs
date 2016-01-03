@@ -30,6 +30,10 @@ namespace Homework
         {
             Console.WriteLine("I'm an assistant {0} and i can write articles.", this.lastName);
         }
+        public void CheckHomeworks()
+        {
+            Console.WriteLine("I'm an assistant {0} and I can check homeworks", this.lastName);
+        }
 
     }
 }

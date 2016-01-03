@@ -47,6 +47,7 @@ namespace Homework
             professor.Title = "Professeur ordinaire";
             professor.SayTitle();
             professor.ExaminationConduct();
+            professor.CheckHomeworks();
             
             //Assistant
             Console.WriteLine();
@@ -58,6 +59,7 @@ namespace Homework
             assistant.SayDetails();
             assistant.WriteArticles();
             assistant.PrintCounter();
+            assistant.CheckHomeworks();
 
         }
     }
