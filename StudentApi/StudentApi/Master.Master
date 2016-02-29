@@ -1,0 +1,33 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Master.Master.cs" Inherits="StudentApi.Master" %>
+
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+
+    <title></title>
+    <link href="Content/bootstrap.min.css" rel="stylesheet" />
+    <script src="Scripts/jquery-2.0.0.js"></script>
+    <script src="Scripts/bootstrap.min.js"></script>
+</head>
+<body>
+
+    <div class="container">
+        <ul class="nav nav-tabs">
+            <li class="nav-item">
+                <asp:HyperLink NavigateUrl="~/AddStudent.aspx" runat="server" Text="Add new student" ToolTip="Add new student to database" CssClass="nav-link" ID="linkAddStudent"/></li>
+            <li class="nav-item">
+                <asp:HyperLink NavigateUrl="~/SearchByFaculty.aspx" runat="server" Text="Search By Falculty" ToolTip="Searching in database by Faculty" CssClass="nav-link"  ID="linkSearchByFaculty"/></li>
+            <li class="nav-item">
+                <asp:HyperLink NavigateUrl="~/SortStudentInOrder.aspx" runat="server" Text="Order by Average Assessment" ToolTip="Order by Assessment" CssClass="nav-link"  ID="linkOrderByAssessment"/></li>
+        </ul>
+
+        <br />
+
+        <asp:ContentPlaceHolder ID="CPH1" runat="server">
+        </asp:ContentPlaceHolder>
+    </div>
+
+</body>
+</html>
